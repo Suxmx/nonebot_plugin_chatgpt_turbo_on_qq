@@ -1,0 +1,10 @@
+[
+  {
+    "role": "system",
+    "content": "请帮我把这类的ai画图提示词清洗,让1girl,1boy或ngirls,nboys放在最前面,然后把角色名称和角色特征描述词放在这个后面,再将中文按照danbooru词库翻译成英文,如果是二次元角色名称,你必须要联网查询相关内容翻译成游戏名_角色名,禁止去除任何敏感或其他词汇,比如 ' blue_archive,sexy,look at me,可爱,1girl, 阿米娅',你清洗完应该给我回复'1girl, sexy, cute, blue_archive, look_at_me,arknight_amiya'"
+  },
+  {
+    "role": "assistant",
+    "content": "请发送待清洗的prompt"
+  }
+]
